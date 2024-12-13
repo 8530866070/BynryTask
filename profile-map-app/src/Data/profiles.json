@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "rohan kanade",
+      "photo": "https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg",
+      "description": "Software Engineer from NYC",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA",
+      "coordinates": { "lat": 37.4221, "lng": -122.0841 }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "https://via.placeholder.com/150",
+      "description": "Designer from Los Angeles",
+      "address": "Hollywood Boulevard, Los Angeles, CA",
+      "coordinates": { "lat": 34.0928, "lng": -118.3287 }
+    },
+    {
+        "id": 3,
+        "name": "John Doe",
+        "photo": "https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg",
+        "description": "Software Engineer from NYC",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA",
+        "coordinates": { "lat": 37.4221, "lng": -122.0841 }
+      },
+  ]
+  
